@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a PhD candidate at the Hong Kong University of Science and Technology (HKUST) advised by [Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui) and a visiting scholar at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
+Hello! I am currently a PhD candidate at the Hong Kong University of Science and Technology (HKUST) advised by [Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui) and a visiting researcher at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
+
 
 # Research Interest
 My research interests lie in data science, urban science, and computational social science. 
@@ -36,7 +37,7 @@ My research interests lie in data science, urban science, and computational soci
 
 
 # Academic Service
-- Conference Reviewer: TNSE'2020, TheWebConf'2022, IC2S2'2022, IMWUT'2022, WSDM'2023
+- Conference Reviewer: TNSE'20, TheWebConf'22, IC2S2'22, IMWUT'22, WSDM'23
 
 
 # Languages
