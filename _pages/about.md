@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,6 +21,7 @@ My research interests lie in data science, urban science, and computational soci
 
 
 # Selected Awards
+- ICWSM Student Travel Grant, 2023
 - HKUST Overseas Research Award, 2022
 - Hong Kong PhD Fellowship (HKPFS), 2020-2024
 - Shanghai Outstanding Bachelor Graduate, 2020
