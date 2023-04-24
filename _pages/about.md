@@ -41,8 +41,7 @@ My research interests lie in data science, urban science, and computational soci
 
 
 # Languages
-- Chinese
-- English
-- Teochew
+- Chinese (Putonghua & Teochew, native)
+- English (Proficient)
 
 
