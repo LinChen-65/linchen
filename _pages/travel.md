@@ -9,4 +9,6 @@ redirect_from:
 
 # Visited places
 
+Last updated: April 2023
+
 ![image](/files/map.png)
