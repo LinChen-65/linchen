@@ -7,3 +7,6 @@ redirect_from:
   - /resume
 ---
 
+# Visited places
+
+![image](/files/map.png)
