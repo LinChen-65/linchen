@@ -11,4 +11,4 @@ redirect_from:
 
 Last updated: April 2023
 
-![image](/files/map.png)
+![image](./files/map.png)
