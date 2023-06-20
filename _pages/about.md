@@ -17,7 +17,7 @@ My research interests lie in data science, urban science, and computational soci
 
 # News
 - [Apr 2023] I ended my fantastic visit at UChicago, and started my new visit at FIB Lab, Tsinghua University.
-- [Mar 2023] Our work **Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**, is accepted by *The 17th International AAAI Conference on Web and Social Media ([ICWSM 2023](https://www.icwsm.org/2023/index.html/))*. See you in Cyprus!
+- [Mar 2023] Our work **Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**, is accepted by [ICWSM 2023](https://www.icwsm.org/2023/index.html/). See you in Cyprus!
 - [Dec 2022] I started my research visit at Knowledge Lab, Uchicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
 - [Aug 2022] Our work **Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity** is now online in [Nature Human Behaviour](https://www.nature.com/articles/s41562-022-01429-0).
 
