@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a PhD candidate at the Hong Kong University of Science and Technology (HKUST) advised by [Prof. Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui) and a visiting researcher at Tsinghua University, advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Previously, I was a visiting researcher at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
+Hello / 你好 / 안녕하세요! 
+
+I am currently a PhD candidate at the Hong Kong University of Science and Technology (HKUST) advised by [Prof. Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui) and a visiting researcher at Tsinghua University, advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Previously, I was a visiting researcher at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
 
 
 # Research Interest
