@@ -18,7 +18,7 @@ My research interests lie in data science, urban science, and computational soci
 
 
 # News
-- [Aug 2023] I have been selected to participate in **Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop**. See you at UTokyo this November!
+- [Aug 2023] I have been selected to participate in [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://www.risingstarsasia.org/index.php). See you at UTokyo this November!
 - [Apr 2023] I ended my fantastic visit at UChicago, and started my new visit at FIB Lab, Tsinghua University.
 - [Mar 2023] Our work **Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**, is accepted by [ICWSM 2023](https://www.icwsm.org/2023/index.html/). See you in Cyprus!
 - [Dec 2022] I started my research visit at Knowledge Lab, Uchicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
