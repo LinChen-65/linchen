@@ -12,7 +12,7 @@ Hello! I am currently a PhD candidate at the Hong Kong University of Science and
 
 
 # Research Interest
-My research interests lie in data science, urban science, and computational social science. 
+My research interests lie in data science, urban science, and computational social science. Currently, I mainly focus on human mobility networks, urban inequality, segregation, and urban resilience.
 
 
 # News
