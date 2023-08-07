@@ -18,6 +18,7 @@ My research interests lie in data science, urban science, and computational soci
 
 
 # News
+- [Aug 2023] I presented a poster about [my NatHumBehav work](https://www.nature.com/articles/s41562-022-01429-0) at The First Research Summit for Urban Science ([RSUS'23](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/)) in Beijing. 
 - [Aug 2023] I have been selected to participate in [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://www.risingstarsasia.org/index.php). See you at UTokyo this November!
 - [Apr 2023] I ended my fantastic visit at UChicago, and started my new visit at FIB Lab, Tsinghua University.
 - [Mar 2023] Our work **Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**, is accepted by [ICWSM 2023](https://www.icwsm.org/2023/index.html/). See you in Cyprus!
@@ -43,6 +44,7 @@ My research interests lie in data science, urban science, and computational soci
 
 # Academic Service
 - Conference Reviewer: TNSE'20, TheWebConf'22, IC2S2'22, IMWUT'22, WSDM'23
+- Session Chair: ICWSM'23, RSUS'23
 
 
 # Languages
