@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: wide
 ---
 
 Hello / 你好 / 안녕하세요! 
