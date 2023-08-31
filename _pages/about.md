@@ -37,18 +37,14 @@ My research interests lie in data science, urban science, and computational soci
 - China National Scholarship, 2017
 
 
-# Teaching
-- COMP4021: Internet Computing (Fall 2022)
-- COMP4641: Social Information Network Analysis and Engineering (Spring 2021)
-
-
 # Academic Service
 - Conference Reviewer: TNSE'20, TheWebConf'22, IC2S2'22, IMWUT'22, WSDM'23
 - Session Chair: ICWSM'23, RSUS'23
 
 
 # Languages
-- Chinese (Putonghua & Teochew, native)
+- Chinese (Native, both Putonghua & Teochew)
 - English (Proficient)
+- Korean (Beginner)
 
 
