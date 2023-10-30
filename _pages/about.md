@@ -39,6 +39,7 @@ My research interests lie in data science, urban science, and computational soci
 
 # Academic Service
 - Conference Reviewer: TNSE'20, TheWebConf'22, IC2S2'22, IMWUT'22, WSDM'23
+- Journal Reviewer: Journal of Social Computing
 - Session Chair: ICWSM'23, RSUS'23
 
 
