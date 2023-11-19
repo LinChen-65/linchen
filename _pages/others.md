@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /others/
+permalink: /miscellaneous/
 author_profile: true
 ---
 
