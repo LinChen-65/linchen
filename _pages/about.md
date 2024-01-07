@@ -18,8 +18,8 @@ My research interests lie in data science, urban science, and computational soci
 
 
 # News
+- [Nov 2023] I was selected (one of the 24 shortlisted participants worldwide) to attend the [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://www.risingstarsasia.org/index.php) at UTokyo, where I befriended and got inspirations from so many outstanding female researchers!
 - [Aug 2023] I presented a poster about [my NatHumBehav work](https://www.nature.com/articles/s41562-022-01429-0) at The First Research Summit for Urban Science ([RSUS'23](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/)) in Beijing. 
-- [Aug 2023] I have been selected to participate in [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://www.risingstarsasia.org/index.php). See you at UTokyo this November!
 - [Jun 2023] Our work **Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**, is published in [ICWSM'23](https://doi.org/10.1609/icwsm.v17i1.22132). I presented this work at the conference in Cyprus, and had a bunch of wonderful discussions!
 - [Apr 2023] I ended my fantastic visit at UChicago, and started my new visit at [FIB Lab](http://fi.ee.tsinghua.edu.cn/), Tsinghua University.
 - [Dec 2022] I started my research visit at [Knowledge Lab](https://www.knowledgelab.org/), Uchicago. 
