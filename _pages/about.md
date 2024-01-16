@@ -18,6 +18,7 @@ My research interests lie in data science, urban science, and computational soci
 
 
 # News
+- [Jan 2024] Our work, **Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities**, is published in [Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-023-02570-5).
 - [Nov 2023] I was selected (one of the 24 shortlisted participants worldwide) to attend the [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://www.risingstarsasia.org/index.php) at UTokyo, where I befriended and got inspirations from so many outstanding female researchers!
 - [Aug 2023] I presented a poster about [my NatHumBehav work](https://www.nature.com/articles/s41562-022-01429-0) at The First Research Summit for Urban Science ([RSUS'23](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/)) in Beijing. 
 - [Jun 2023] Our work **Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data**, is published in [ICWSM'23](https://doi.org/10.1609/icwsm.v17i1.22132). I presented this work at the conference in Cyprus, and had a bunch of wonderful discussions!
