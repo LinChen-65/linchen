@@ -9,7 +9,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=uxaP8ZcAAAAJ&hl=en).
 
 (* indicates equal contribution.)
-- Yunke Zhang, Fengli Xu, <u>Lin Chen</u>, Yuan Yuan, James Evans, Luis Bettencourt, and Yong Li. **Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities.** To appear in *Humanities and Social Sciences Communications*.
+- Yunke Zhang, Fengli Xu, <u>Lin Chen</u>, Yuan Yuan, James Evans, Luis Bettencourt, and Yong Li. **Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities.** *Humanities and Social Sciences Communications*, 11, 87. (2024)
 - Zhenyu Han, <u>Lin Chen</u>, Qianyue Hao, Qiwei He, Katherine Budeski, Depeng Jin, Fengli Xu, Kun Tang, and Yong Li. **How enlightened self-interest guided global vaccine sharing benefits all: a modeling study.** *Journal of Global Health*, 13. (2023) \[[Paper](https://jogh.org/2023/jogh-13-06038)\]
 - <u>Lin Chen</u>, Qianyue Hao, Fengli Xu, Yong Li, and Pan Hui. **Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data.** *Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)*, vol. 17, pp. 126-136. (2023) \[[Paper](https://ojs.aaai.org/index.php/ICWSM/article/view/22132)\]
 - <u>Lin Chen</u>\*, Fengli Xu\*, Zhenyu Han, Kun Tang, Pan Hui, James Evans, Yong Li. **Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity.** *Nature Human Behaviour*, Volume 6, Issue 11, pp 1503–1514. (2022) \[[Paper](https://www.nature.com/articles/s41562-022-01429-0)\]
