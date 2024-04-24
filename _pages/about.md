@@ -21,7 +21,7 @@ My research interests lie in data science, urban science, computational social s
 - [Apr 2024] I am admitted to the Summer Institute of Computational Social Science at UPenn ([SICSS-Penn](https://sicss.io/2024/penn/))!
 - [Apr 2024] Our submission on mobility network resilience is accepted to [IC2S2](https://ic2s2-2024.org/)!
 - [Feb 2024] We release a new preprint: **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**. Check it out on [Arxiv](https://arxiv.org/abs/2402.11518)!
-- [Jan 2024] Our work, **Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities**, is published in [Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-023-02570-5).
+- [Jan 2024] Our work, **Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities**, is published in [Nature Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-023-02570-5).
 - [Dec 2023] Our work, **How enlightened self-interest guided global vaccine sharing benefits all: a modeling study**, is published in [Journal of Global Health](https://jogh.org/2023/jogh-13-06038).
 - [Nov 2023] I was selected (one of the 24 shortlisted participants worldwide) to attend the [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://www.risingstarsasia.org/index.php) at UTokyo.
 - [Aug 2023] I presented a poster about [my NatHumBehav work](https://www.nature.com/articles/s41562-022-01429-0) at The First Research Summit for Urban Science ([RSUS'23](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/)) in Beijing. 
