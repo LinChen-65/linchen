@@ -18,11 +18,10 @@ My research interests lie in data science, urban science, computational social s
 
 
 # News
-- [May 2024] Our work, **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**, is accepted to [KDD'24](https://kdd2024.kdd.org/)! Barcelona!
+- [May 2024] Our work, **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**, is accepted to [KDD'24](https://kdd2024.kdd.org/)! Barcelona! Our [preprint version](https://arxiv.org/abs/2402.11518) is also available.
 - [May 2024] Our work, **VulnerabilityMap: An Open Framework for Mapping Vulnerability among Urban Disadvantaged Populations in the United States**, is accepted to [IJCAI'24 - AI for Social Good track](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)! Looking forward to visit Jeju Island~
 - [Apr 2024] I am admitted to the Summer Institute of Computational Social Science at UPenn ([SICSS-Penn](https://sicss.io/2024/penn/))!
 - [Apr 2024] Our submission on mobility network resilience is accepted to [IC2S2'24](https://ic2s2-2024.org/) in Philadelphia!
-- [Feb 2024] We release a new preprint: **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**. Check it out on [Arxiv](https://arxiv.org/abs/2402.11518)!
 - [Jan 2024] Our work, **Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities**, is published in [Nature Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-023-02570-5).
 - [Dec 2023] Our work, **How enlightened self-interest guided global vaccine sharing benefits all: a modeling study**, is published in [Journal of Global Health](https://jogh.org/2023/jogh-13-06038).
 - [Nov 2023] I was selected (one of the 24 shortlisted participants worldwide) to attend the [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://www.risingstarsasia.org/index.php) at UTokyo.
