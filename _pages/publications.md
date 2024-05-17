@@ -9,6 +9,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=uxaP8ZcAAAAJ&hl=en).
 
 (* indicates equal contribution.)
+- <u>Lin Chen</u>, Fengli Xu, Nian Li, Zhenyu Han, Meng Wang, Yong Li, and Pan Hui. **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network.** To appear in [KDD'24](https://kdd2024.kdd.org/).
 - <u>Lin Chen</u>, Yong Li, and Pan Hui. **VulnerabilityMap: An Open Framework for Mapping Vulnerability among Urban Disadvantaged Populations in the United States.** To appear in [IJCAI'24 - AI for Social Good Track](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/).
 - Yunke Zhang, Fengli Xu, <u>Lin Chen</u>, Yuan Yuan, James Evans, Luis Bettencourt, and Yong Li. **Counterfactual mobility network embedding reveals prevalent accessibility gaps in U.S. cities.** *Humanities and Social Sciences Communications*, 11, 87. (2024) \[[Paper](https://doi.org/10.1057/s41599-023-02570-5)\]
 - Zhenyu Han, <u>Lin Chen</u>, Qianyue Hao, Qiwei He, Katherine Budeski, Depeng Jin, Fengli Xu, Kun Tang, and Yong Li. **How enlightened self-interest guided global vaccine sharing benefits all: a modeling study.** *Journal of Global Health*, 13. (2023) \[[Paper](https://jogh.org/2023/jogh-13-06038)\]
