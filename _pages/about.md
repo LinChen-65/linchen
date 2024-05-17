@@ -18,7 +18,7 @@ My research interests lie in data science, urban science, computational social s
 
 
 # News
-- [May 2024] Our work, **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**, is accepted to [KDD'24](https://kdd2024.kdd.org/)! Barcelona! Our [preprint version](https://arxiv.org/abs/2402.11518) is also available.
+- [May 2024] Our work, **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**, is accepted to [KDD'24](https://kdd2024.kdd.org/), Barcelona! Our [preprint version](https://arxiv.org/abs/2402.11518) is also available.
 - [May 2024] Our work, **VulnerabilityMap: An Open Framework for Mapping Vulnerability among Urban Disadvantaged Populations in the United States**, is accepted to [IJCAI'24 - AI for Social Good track](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)! Looking forward to visit Jeju Island~
 - [Apr 2024] I am admitted to the Summer Institute of Computational Social Science at UPenn ([SICSS-Penn](https://sicss.io/2024/penn/))!
 - [Apr 2024] Our submission on mobility network resilience is accepted to [IC2S2'24](https://ic2s2-2024.org/) in Philadelphia!
