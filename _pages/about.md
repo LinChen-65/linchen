@@ -32,6 +32,7 @@ My research interests lie in data science, urban science, computational social s
 <!-- - [Dec 2022] I started my research visit at [Knowledge Lab](https://www.knowledgelab.org/), Uchicago. -->
 
 # Selected Awards
+- HKUST Conference Travel Grant, 2024
 - Rising Stars Women in Engineering, Asian Deans’ Forum, 2023
 - ICWSM Student Travel Grant, 2023
 - HKUST Overseas Research Award, 2022
