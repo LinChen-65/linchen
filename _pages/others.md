@@ -2,9 +2,8 @@
 layout: archive
 permalink: /miscellaneous/
 author_profile: true
+title: "Miscellaneous"
 ---
-
-# Miscellaneous
 
 ## Traces on Earth
 A map of where I have been: [Link](https://beeneverywhere.net/user/2260)
