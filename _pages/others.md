@@ -4,10 +4,12 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-# Traces on Earth
+# Miscellaneous
+
+## Traces on Earth
 A map of where I have been: [Link](https://beeneverywhere.net/user/2260)
 
-# Dance
+## Dance
 Embarking on my Ph.D. journey, I discovered a passion for dancing as a means of unwinding during my leisure moments. 
 From kpop to hip-hop and a touch of choreography and jazz, I enjoy expressing myself through movement. 
 
