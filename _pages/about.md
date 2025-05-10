@@ -20,6 +20,7 @@ My research interests lie in data science, urban science, computational social s
 
 
 # News
+- [Apr 2025] I defended my PhD thesis at CSE, HKUST!
 - [Feb 2025] Check out our new preprint: **Invisible Walls in Cities: Leveraging Large Language Models to Predict Urban Segregation Experience with Social Media Content** [Arxiv](https://arxiv.org/abs/2503.04773v1).
 - [Jan 2025] Our perspective paper, **Using human mobility data to quantify experienced urban inequalities**, is now online in [Nature Human Behaviour](https://doi.org/10.1038/s41562-024-02079-0).
 - [Aug 2024] Our work, **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**, is published in [KDD'24](https://doi.org/10.1145/3637528.3671965).
