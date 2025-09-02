@@ -10,7 +10,7 @@ redirect_from:
 
 Hello / 你好 / 안녕하세요! 
 
-I am currently a PhD candidate and HKPFS awardee at the Hong Kong University of Science and Technology (HKUST) advised by [Prof. Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui). Previously, I was a visiting researcher at Tsinghua University, advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/), and a visiting researcher at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
+I am currently a postdoctoral researcher at the Network Science Institute, Northeastern University, advised by [Prof. Esteban Moro](https://estebanmoro.org/). I obtained my PhD degree as an HKPFS awardee at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui). Previously, I was a visiting researcher at Tsinghua University, advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/), and a visiting researcher at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
 
 
 
