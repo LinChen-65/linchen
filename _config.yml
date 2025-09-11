@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lin's Homepage"
 title_separator          : "-"
 name                     : &name "Lin Chen"
-description              : &description "CS PhD candidate @ HKUST"
+description              : &description "Postdoc @ NEU"
 url                      : https://linchen-65.github.io/linchen/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lin Chen"
   avatar           : "../images/Minions.png" #"profile.png"
-  bio              : "CS PhD Candidate @HKUST, Visiting Researcher @Tsinghua, Former Visiting Researcher@ UChicago"
-  location         : "Hong Kong"
+  bio              : "Postdoc @NEU, Former CS PhD from @HKUST, Visiting Researcher @Tsinghua, Visiting Researcher @UChicago"
+  location         : "Boston"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uxaP8ZcAAAAJ&hl=en"
