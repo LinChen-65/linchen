@@ -19,9 +19,10 @@ My research interests lie in data science, urban science, computational social s
 
 
 # News
-- [Jun 2025] New preprint online: **AI Agent Behavioral Science** [Arxiv](https://arxiv.org/abs/2506.06366).
+- [Sep 2025] Invited keynote at [CCS UrbanSys](https://urban-sys-net.weebly.com/), Siena, Italy.
+- [Jun 2025] New preprint: **AI Agent Behavioral Science** [Arxiv](https://arxiv.org/abs/2506.06366).
 - [Apr 2025] I defended my PhD thesis at CSE, HKUST!
-- [Feb 2025] New preprint online: **Invisible Walls in Cities: Leveraging Large Language Models to Predict Urban Segregation Experience with Social Media Content** [Arxiv](https://arxiv.org/abs/2503.04773v1).
+- [Feb 2025] New preprint: **Invisible Walls in Cities: Leveraging Large Language Models to Predict Urban Segregation Experience with Social Media Content** [Arxiv](https://arxiv.org/abs/2503.04773v1).
 - [Jan 2025] Our perspective paper, **Using human mobility data to quantify experienced urban inequalities**, is now online in [Nature Human Behaviour](https://doi.org/10.1038/s41562-024-02079-0).
 - [Aug 2024] Our work, **Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**, is published in [KDD'24](https://doi.org/10.1145/3637528.3671965).
 - [Aug 2024] Our work, **VulnerabilityMap: An Open Framework for Mapping Vulnerability among Urban Disadvantaged Populations in the United States**, is published in [IJCAI'24](https://www.ijcai.org/proceedings/2024/0797.pdf).
@@ -51,9 +52,9 @@ My research interests lie in data science, urban science, computational social s
 
 
 # Academic Service
-- Conference Reviewer: TNSE (20), TheWebConf (22-24), IC2S2 (22-24), IMWUT (22), WSDM (23), KDD (24), IJCAI (25)
+- Conference Reviewer: TNSE (20), TheWebConf (22-24), IC2S2 (22-25), IMWUT (22), WSDM (23), ICWSM (24-25), KDD (24), IJCAI (25)
 - Journal Reviewer: Journal of Social Computing
-- Session Chair: ICWSM (23), RSUS (23)
+- Session Chair: ICWSM (23), RSUS (23-25)
 - Administrator for **大模型智能体** (a WeChat public account sharing up-to-date LLM agent research) \
 ![qrcode_for_gh_69fe2e2389a9_258](https://github.com/user-attachments/assets/2128b6d5-5c90-45e2-8613-fa070d104256)
 
@@ -63,5 +64,3 @@ My research interests lie in data science, urban science, computational social s
 - Chinese (Native, both Putonghua & Teochew)
 - English (Proficient)
 - Korean (Beginner)
-
-
