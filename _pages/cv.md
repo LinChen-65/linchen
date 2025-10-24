@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please find my [CV](https://nbviewer.org/github/LinChen-65/linchen/blob/af2a007241452f48cc6926314f982577eb8eb6d8/files/Curriculum_Vitae_Lin_Chen.pdf) here (last updated: Sept 2025).
-
+Please find my [CV](https://nbviewer.org/github/LinChen-65/linchen/blob/5e70f6c1ab61cfb8d2cf7d53c0dc740787f396ff/files/Curriculum_Vitae_Lin_Chen.pdf) here (last updated: Oct 2025).
