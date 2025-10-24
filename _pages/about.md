@@ -10,7 +10,7 @@ redirect_from:
 
 Hello / 你好 / 안녕하세요! 
 
-I am currently a postdoctoral researcher at the Network Science Institute, Northeastern University, advised by [Prof. Esteban Moro](https://estebanmoro.org/). I obtained my PhD degree as an HKPFS awardee at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui). Previously, I was a visiting researcher at Tsinghua University, advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/), and a visiting researcher at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
+I am currently a postdoctoral researcher at SUNLab, Network Science Institute, Northeastern University, advised by [Prof. Esteban Moro](https://estebanmoro.org/). I obtained my PhD degree as an HKPFS awardee at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Pan Hui](https://en.wikipedia.org/wiki/Pan_Hui). Previously, I was a visiting researcher at Tsinghua University, advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/), and a visiting researcher at Knowledge Lab, University of Chicago, advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans). 
 
 
 
@@ -19,6 +19,8 @@ My research interests lie in data science, urban science, computational social s
 
 
 # News
+- [Oct 2025] Invited talk at the [Network Science Institute](https://www.networkscienceinstitute.org/talks/lin-chen), Boston.
+- [Sep 2025] I started my postdoctoral journey at SUNLab, Network Science Institute, Northeastern University!
 - [Sep 2025] Invited keynote at [CCS UrbanSys](https://urban-sys-net.weebly.com/), Siena, Italy.
 - [Jun 2025] New preprint: **AI Agent Behavioral Science** [Arxiv](https://arxiv.org/abs/2506.06366).
 - [Apr 2025] I defended my PhD thesis at CSE, HKUST!
@@ -39,6 +41,7 @@ My research interests lie in data science, urban science, computational social s
 <!-- - [Dec 2022] I started my research visit at [Knowledge Lab](https://www.knowledgelab.org/), Uchicago. -->
 
 # Selected Awards
+- Federation of Hong Kong Chiu Chow Community Organizations Fellowship, 2025
 - KDD Student Travel Award, 2024
 - HKUST Conference Travel Grant, 2024
 - Rising Stars Women in Engineering, Asian Deans’ Forum, 2023
@@ -53,7 +56,7 @@ My research interests lie in data science, urban science, computational social s
 
 # Academic Service
 - Conference Reviewer: TNSE (20), TheWebConf (22-24), IC2S2 (22-25), IMWUT (22), WSDM (23), ICWSM (24-25), KDD (24), IJCAI (25)
-- Journal Reviewer: Journal of Social Computing
+- Journal Reviewer: EPJ Data Science, Journal of Social Computing
 - Session Chair: ICWSM (23), RSUS (23-25)
 - Administrator for **大模型智能体** (a WeChat public account sharing up-to-date LLM agent research) \
 ![qrcode_for_gh_69fe2e2389a9_258](https://github.com/user-attachments/assets/2128b6d5-5c90-45e2-8613-fa070d104256)
